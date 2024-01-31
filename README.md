@@ -1,4 +1,4 @@
-# java RMI Distributed Computing Environment
+# Java RMI Distributed Computing Environment
 
 This project is a Java Remote Method Invocation (RMI) implementation of a distributed computing environment. The system consists of a server and multiple clients, each representing a process (P0, P1, P2, P3). The objective is to showcase the principles of remote method invocations, logical clocks, and clock drifts in a distributed-object computing model.
 
@@ -20,3 +20,5 @@ The project simulates a distributed environment with multiple processes, where e
 - Later "use the command "make server" command.
 - Later use the "make client" command to connect with the server.(i have mentioned "in-csci-rrpc01.cs.iupui.edu" machine in line 47 of client.java)
 
+## Observations and Result
+- There are mentioned in the Assignment4.docx
