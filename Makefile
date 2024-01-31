@@ -1,4 +1,6 @@
 compile:
+	javac Communication.java
+	javac CommunicationC.java
 	javac Server.java
 	javac Client.java
 
